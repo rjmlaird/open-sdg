@@ -2,12 +2,12 @@
 
 This document is intended for developers, to help with the process of upgrading to version 2.4.0-beta1 of Open SDG, from 2.3.0 or higher.
 
-## Upgrade data repository to sdg-build 2.4.0-beta1
+## Upgrade data repository to sdg-build 2.4.0-beta3
 
 In your data repository, update your `requirements.txt` file to:
 
 ```
-git+https://github.com/open-sdg/sdg-build@2.4.0-beta1
+git+https://github.com/open-sdg/sdg-build@2.4.0-beta3
 ```
 
 ## Upgrade translations to sdg-translations 2.4.0-beta1
